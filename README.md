@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HollywoodOKC
-- 👀 I’m interested in Javascript & Front-End development.
-- 🌱 I’m currently working on projects, while continueing to learn the craft.
-- 💞️ I’m looking to collaborate on webapps & webpages!
+- 👀 I’m interested in Javascript & Software Engineering.
+- 🌱 Currently enrolled in the Devmountain Web Development course!
+- 💞️ Looking to collaborate on webapps & webpages!
 - 📫 How to reach me T_Lane11@yahoo.com
 
 <!---
