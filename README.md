@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HollywoodOKC
 - 👀 I’m interested in Javascript & Software Engineering.
-- 🌱 Currently enrolled in the Devmountain Web Development course!
+- 🌱 Currently back to learning any and all things web dev!
 - 💞️ Looking to collaborate on webapps & webpages!
 - 📫 How to reach me T_Lane11@yahoo.com
 
