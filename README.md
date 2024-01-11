@@ -3,6 +3,7 @@
 - 🌃 Working on personal and commercial projects.
 - ⚡️ Looking to collaborate with Graphic Designers and other Devs!
 - 📡 How to reach me T_Lane11@yahoo.com
+- ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 <!---
 HollywoodOKC/HollywoodOKC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
