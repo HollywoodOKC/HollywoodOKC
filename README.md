@@ -6,7 +6,7 @@
 - ⚡️ Looking to collaborate with Graphic Designers and other Devs!
 - 📡 How to reach me T_Lane11@yahoo.com
 - ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-- ![Hollywood's GitHub stats](https://github-readme-stats.vercel.app/api?username=hollywood icons=true&theme=synthwave)
+- [![Hollywood's GitHub stats](https://github-readme-stats.vercel.app/api?username=hollywoodokc_icons=true&theme=synthwave)](https://github.com/hollywoodokc/github-readme-stats)
 
 <!---
 HollywoodOKC/HollywoodOKC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
