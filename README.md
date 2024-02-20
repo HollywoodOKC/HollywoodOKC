@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-imageNew.png)
 
 - 👋 Hi, I’m HollywoodOKC
 - 👨🏾‍💻 I’m interested in the MERN stack.
