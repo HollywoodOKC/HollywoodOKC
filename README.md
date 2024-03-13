@@ -1,6 +1,5 @@
 ![Header](./github-header-imageNew.png)
 
-- 👋 Hi, I’m HollywoodOKC
 - 👨🏾‍💻 I’m interested in the MERN stack.
 - 🌃 Working on personal and commercial projects.
 - ⚡️ Looking to collaborate with Graphic Designers and other Devs!
